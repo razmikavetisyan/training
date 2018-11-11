@@ -12,5 +12,6 @@ public class App
         String ss = "asdas";
 
         System.out.println("Good Bye My Life !!!");
+        System.out.println("I'm going to hang out !!!");
     }
 }
