@@ -13,5 +13,6 @@ public class App
 
         System.out.println("Good Bye My Life !!!");
         System.out.println("I'm going to hang out !!!");
+        System.out.println("Third commit with Intellij IDEA");
     }
 }
