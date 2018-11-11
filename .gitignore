@@ -1,2 +1,4 @@
- /.idea
+ .idea
  training.iml
+ .directory
+ /out
